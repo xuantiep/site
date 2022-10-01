@@ -1,8 +1,8 @@
-title:            Mu-An Chiou
-description:      Mu-An Chiou's home page on the World Wide Web.
-url:              https://muan.co
+title:            Ninja Tiny Kingdom
+description:      Tiny Kingdom of Ninja, place we write and share our though and sweet home page on the World Wide Web.
+url:              https://www.ninja.tk
 permalink:        /posts/:title
-timezone:         Asia/Taipei
+timezone:         Indian/Christmas
 kramdown:
   hard_wrap: true
 sass:

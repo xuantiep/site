@@ -14,12 +14,12 @@ collections:
   pages:
     output: true
 i18n:
-  Travel: 旅
-  Animals: 寵
-  Japan: 台
-  Books: 書
-  Cook: 廚
-  Plants: 植
-  24h: 日
-  Mails: 郵
-  Friends: 友
+  Travel: 旅行
+  Animals: 動物
+  Japan: 日本
+  Books: 本
+  Cook: 料理
+  Plants: 植物
+  24h: 時間
+  Mails: 郵便物
+  Friends: 仲間

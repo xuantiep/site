@@ -1,6 +1,6 @@
 ---
-permalink: /stories-taiwan.json
-type: "Taiwan"
+permalink: /stories-japan.json
+type: "Japan"
 ---
 {% assign stories = site.data.stories | where_exp: "story", "story.meta.tags contains page.type" | where_exp: "story", "story.meta.tags contains 'Highlight'" | reverse %}
 {
